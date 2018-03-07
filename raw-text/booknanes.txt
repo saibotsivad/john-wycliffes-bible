@@ -1,0 +1,76 @@
+Genesis - gen.txt
+Exodus - exo.txt
+Leviticus - lev.txt
+Numbers - num.txt
+Deuteronomy - deu.txt
+Joshua - jos.txt
+Judges - jdg.txt
+Ruth - rut.txt
+1 Kings - 1sa.txt
+2 Kings - 2sa.txt
+3 Kings - 1ki.txt
+4 Kings - 2ki.txt
+1 Paralipomenon - 1ch.txt
+2 Paralipomenon - 2ch.txt
+1 Esdras - ezr.txt
+2 Esdras - neh.txt
+3 Esdras - 2ez.txt
+Tobit - tob.txt
+Judith - jdt.txt
+Esther - est.txt
+Job - job.txt
+Psalms - psa.txt
+Proverbs - pro.txt
+Ecclesiastes - ecc.txt
+Songes of Songes - sol.txt
+Wisdom - wis.txt
+Syrach - syr.txt
+Isaiah - isa.txt
+Jeremiah - jer.txt
+Lamentations - lam.txt
+Preier of Jeremye - epj.txt
+Baruk - bar.txt
+Ezechiel - eze.txt
+Daniel - dan.txt
+Osee - hos.txt
+Joel - joe.txt
+Amos - amo.txt
+Abdias - oba.txt
+Jonas - jon.txt
+Mychee - mic.txt
+Naum - nah.txt
+Abacuk - hab.txt
+Sofonye - zep.txt
+Aggey - hag.txt
+Sacarie - zec.txt
+Malachie - mal.txt
+1 Machabeis - 1ma.txt
+2 Machabeis - 2ma.txt
+Matheu - mat.txt
+Mark - mar.txt
+Luke - luk.txt
+John - joh.txt
+Dedis of Apostlis - act.txt
+Romaynes - rom.txt
+1 Corinthis - 1co.txt
+2 Corinthis - 2co.txt
+Galathies - gal.txt
+Effesies - eph.txt
+Filipensis - phi.txt
+Colosencis - col.txt
+1 Thessalonycensis - 1th.txt
+2 Thessalonycensis - 2th.txt
+1 Tymothe - 1ti.txt
+2 Tymothe - 2ti.txt
+Tite - tit.txt
+Filemon - phm.txt
+Ebrews - heb.txt
+James - jam.txt
+1 Petre - 1pe.txt
+2 Petre - 2pe.txt
+1 Joon - 1jo.txt
+2 Joon - 2jo.txt
+3 Joon - 3jo.txt
+Judas - jud.txt
+Apocalips - rev.txt
+Laodicensis - lao.txt
