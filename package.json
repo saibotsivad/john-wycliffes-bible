@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "The Wycliffe Bible translation, in a programmatically usable JSON format.",
   "scripts": {
-    "build": "node build.js"
+    "build": "rimraf ./dist && mkdirp ./dist && node build.js"
   },
   "repository": {
     "type": "git",
@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/saibotsivad/john-wyclifes-bible/issues"
   },
-  "homepage": "https://github.com/saibotsivad/john-wyclifes-bible#readme"
+  "homepage": "https://github.com/saibotsivad/john-wyclifes-bible#readme",
+  "devDependencies": {
+    "mkdirp": "^0.5.1",
+    "rimraf": "^2.6.2"
+  }
 }
