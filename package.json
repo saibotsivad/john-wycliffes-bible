@@ -1,5 +1,5 @@
 {
-  "name": "john-wyclifes-bible",
+  "name": "john-wycliffes-bible",
   "version": "0.0.0",
   "description": "The Wycliffe Bible translation, in a programmatically usable JSON format.",
   "scripts": {
@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saibotsivad/john-wyclifes-bible.git"
+    "url": "git+https://github.com/saibotsivad/john-wycliffes-bible.git"
   },
   "keywords": [
     "bible"
@@ -15,9 +15,9 @@
   "author": "saibotsivad",
   "license": "VOL",
   "bugs": {
-    "url": "https://github.com/saibotsivad/john-wyclifes-bible/issues"
+    "url": "https://github.com/saibotsivad/john-wycliffes-bible/issues"
   },
-  "homepage": "https://github.com/saibotsivad/john-wyclifes-bible#readme",
+  "homepage": "https://github.com/saibotsivad/john-wycliffes-bible#readme",
   "devDependencies": {
     "mkdirp": "^0.5.1",
     "rimraf": "^2.6.2"
