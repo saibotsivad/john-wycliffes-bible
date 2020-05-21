@@ -10,7 +10,8 @@
     "url": "git+https://github.com/saibotsivad/john-wycliffes-bible.git"
   },
   "keywords": [
-    "bible"
+    "bible",
+    "wycliffe"
   ],
   "author": "saibotsivad",
   "license": "VOL",
@@ -19,7 +20,7 @@
   },
   "homepage": "https://github.com/saibotsivad/john-wycliffes-bible#readme",
   "devDependencies": {
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^1.0.4",
     "rimraf": "^2.6.2"
   }
 }
