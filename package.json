@@ -1,6 +1,6 @@
 {
   "name": "john-wycliffes-bible",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "The Wycliffe Bible translation, in a programmatically usable JSON format.",
   "scripts": {
     "build": "rimraf ./dist && mkdirp ./dist && node build.js"
