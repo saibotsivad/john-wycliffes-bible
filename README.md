@@ -1,16 +1,16 @@
-# john-wycliffes-bible
+# John Wycliffes Bible
 
 The Wycliffe Bible translation, in a programmatically usable JSON format.
 
 The [raw text](./raw-text) was originally sourced from
 [here](http://wesley.nnu.edu/fileadmin/imported_site/biblical_studies/wycliffe/).
 
-## json files
+## JSON Files
 
 All JSON files are constructed programmatically from the raw text, and placed
-inside the [dist][./dist] folder.
+inside the [dist](./dist) folder.
 
-### book list
+### Book List
 
 There is an [index of books](./dist/index.json) that you can use
 to list books or whatnot. That file is an array of objects like this:
@@ -31,7 +31,7 @@ The name of the book, as translated in the Wycliffe version.
 The normalized name of the book, which serves as the reference to
 the JSON file.
 
-### book file
+### Book File
 
 You can use the `normalized` property of the index to get the book file,
 e.g. [dist/paralipomenon1.json](./dist/paralipomenon1.json) to
@@ -53,7 +53,7 @@ An example object looks like this:
 }
 ```
 
-## license
+## License
 
 As best as I can tell, the Wycliffe translation is in the public domain.
 
